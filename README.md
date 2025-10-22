@@ -12,6 +12,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
+<div>
+<a href="https://beacons.ai/LeonardoFalinski">
+<img height="180em" src=""https://github-readne-stats.vercel.app/api?username=LeonardoFalinski&shou_icons=true&thene—dracula&include_all_commits=true&count_private—true"/_>
+<img height="180em" src=""https://github-readne-stats.vercel.app/api/top=langs/?username=LeonardoFalinski&lauyout=compact&langs_conut=16&theme=drácula" /_>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <!-- <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
