@@ -39,7 +39,3 @@
   <a href="https://www.linkedin.com/in/leonardo-falinski-2036a412a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-<div>
-  [Sanek animation] https://github-readme-stats.vercel.app/api?username=leonardofalinski&show_icons=true&theme=dark
-</div>
