@@ -1,5 +1,21 @@
 ## Olá eu sou Leonardo Falinski, estudo programação!
 
+
+
+<div style="font-family: Arial, sans-serif; color: #333; background-color: #f9f9f9; padding: 20px; border-radius: 8px; max-width: 600px; margin: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h1 style="color: #2c3e50; text-align: center;">Olá! 👋</h1>
+    <p style="font-size: 16px; line-height: 1.6;">
+        Meu nome é <strong>Leonardo Falinski</strong>. Sou formado como <strong>Técnico em Informática</strong> e atualmente atuo como <strong>Analista de Suporte Técnico</strong>.
+    </p>
+    <p style="font-size: 16px; line-height: 1.6;">
+        Tenho paixão por tecnologia e estou sempre buscando evoluir minhas habilidades. Atualmente, estou estudando <span style="color:#2980b9;">C#</span>, <span style="color:#e67e22;">HTML</span>, <span style="color:#27ae60;">CSS</span> e <span style="color:#f1c40f;">JavaScript</span> para expandir meus conhecimentos em desenvolvimento web e programação.
+    </p>
+    <p style="font-size: 16px; line-height: 1.6;">
+        Aqui você encontrará meus projetos, estudos e experimentos enquanto avanço nessa jornada. Fique à vontade para explorar e acompanhar minha evolução!
+    </p>
+</div>
+
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=leonardofalinski&show_icons=true&theme=dark"
